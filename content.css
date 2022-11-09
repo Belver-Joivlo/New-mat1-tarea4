@@ -1,7 +1,7 @@
 html{padding:0}
 body{font:.75em/1.5 Arial,Verdana,Helvetica,sans-serif;padding:15px;margin:0;text-align:left;color:#333333;background:#ffffff}
 a{color:#0063dc}
-#header,#emptyHeader{text-align:left;height:5em;padding-left:10px;font-size:1.2em;line-height:5em;color:#555;background:#f3f3f3 url(_em_logo.png) no-repeat 0 0;text-shadow:1px 1px 1px #fff;border-bottom:1px solid #e3e3e3;border-top:1px solid #e3e3e3} /* Header is also in single page */
+#header,#emptyHeader{text-align:left;height:5em;padding-left:10px;font-size:1.2em;line-height:5em;color:#555;background:#f3f3f3 url(imagen/bb.png) no-repeat 0 0;text-shadow:1px 1px 1px #fff;border-bottom:1px solid #e3e3e3;border-top:1px solid #e3e3e3} /* Header is also in single page */
 #header h1{margin:0;font-size:1em}
 #nodeDecoration{text-align:left;padding:1em 20px;margin-bottom:2em;background:#f3f3f3 url(_em_logo.png) no-repeat 0 0;text-shadow:1px 1px 1px #fff;border-bottom:1px solid #e3e3e3;border-top:1px solid #e3e3e3}
 #nodeTitle,.nodeTitle{font-size:1.5em;margin:0;font-weight:bold;color:#222} /* .nodeTitle when single page */
